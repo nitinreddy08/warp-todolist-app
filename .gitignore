@@ -125,4 +125,7 @@ ehthumbs.db
 Thumbs.db
 
 # Application specific files
-todos.json
+# todos.json - uncomment if you don't want to include demo data
+
+# Vercel
+.vercel
